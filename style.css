@@ -1,0 +1,29 @@
+body{
+margin:100px;
+}
+
+header h1{
+    text-align: center;
+}
+
+h2{
+    padding-left: 20px;
+    background-color: skyblue; 
+}
+
+.skills{
+ text-align: left;
+ margin-left: 27%;
+}
+
+.fa-telegram{
+    color: rgb(0, 68, 255);
+}
+
+.fa-discord{
+    color: blueviolet;
+}
+
+.contacts{
+    text-align: end
+}
