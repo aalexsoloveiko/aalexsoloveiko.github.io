@@ -27,3 +27,11 @@ h2{
 .contacts{
     text-align: end
 }
+
+.portfWorks a{
+    
+    
+    text-decoration: none;
+    background:rgb(195, 91, 226);
+    color: aliceblue;
+}
